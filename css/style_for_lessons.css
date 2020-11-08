@@ -26,3 +26,28 @@ main {
 .main-result-5-10 {
     width: 100px;
 }
+
+.color-yellow {
+    color: yellow;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+p {
+   padding-left: 2%;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+}

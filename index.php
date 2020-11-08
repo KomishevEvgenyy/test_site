@@ -13,8 +13,8 @@
 <nav class="ml"><p>nav</p></nav>
 <main class="ml">
     <p>main</p>
-    <p><a href="lessons_one.php">Урок 1</a></p>
-    <p><a href="#">Урок 2</a></p>
+    <p><a href="lesson_one.php">Урок 1</a></p>
+    <p><a href="lesson_two.php">Урок 2</a></p>
 </main>
 <footer class="ml"><p>footer</p></footer>
 </body>
