@@ -36,6 +36,6 @@
     }
     ?>
 </main>
-<p><a href="index.php">Назад</a></p>
+<p><a href="index.php">На главную</a></p>
 </body>
 </html>
